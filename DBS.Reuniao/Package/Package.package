@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="482f3dbd-d69d-4b93-ad32-efedcaba3b7a" solutionId="482f3dbd-d69d-4b93-ad32-efedcaba3b7a" resetWebServer="false" name="DBS.Reuniao" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="5c10d1ee-806d-4a4d-8c53-36d3f235a12c" />
+  </projectItems>
+</package>
